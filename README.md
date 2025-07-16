@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ankitkamani.png" width="120" alt="Ankit Kamani" style="border-radius:50%;" />
-</p>
-
 <h1 align="center">Hi, I'm <span style="color:#1976D2;">Ankit Kamani</span> 👋</h1>
 
 <p align="center"><i>Building seamless mobile experiences with Flutter</i></p>
@@ -36,7 +32,16 @@
 - 💡 I love transforming ideas into real mobile solutions.
 - 🌱 Always learning—currently into backend tech & cloud integration.
 - 🤝 Open to collaboration & sharing knowledge.
-- ☕ Powered by coffee and curiosity.
+
+---
+
+## 🛠️ Skills
+
+**Programming:** C, C++, Java, Kotlin, PHP, Dart, Swift (basic)  
+**Mobile Development:** Flutter, Android (Java/Kotlin), iOS (Swift-basic)  
+**Web & Database:** Laravel, MongoDB, Firebase, MySQL  
+**Cloud & Hosting:** AWS EC2, Elastic IPs, Domain/Web Hosting  
+**Design:** Figma
 
 ---
 
@@ -56,12 +61,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankitkamani&style=for-the-badge&color=1976D2" alt="Profile views"/>
 </p>
-
----
-
-<details>
-  <summary>✨ <b>Fun Fact</b></summary>
-  <br>
-  I believe technology should be both creative and useful.<br>
-  When I’m not coding, you’ll find me learning something new or enjoying a great cup of coffee.
-</details>
